@@ -1,0 +1,29 @@
+
+
+h3{
+    color:red; 
+    font-weight: bold; 
+    text-decoration: underline;
+}
+
+h1{
+    color: aqua;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+#heading{
+    font-weight:bold;
+    }
+
+    td
+{
+    padding: 2px;
+    border: 1px solid #E88741;
+    }
+
+ h4{
+        color:gold; 
+        font-weight: bold; 
+        text-decoration: underline;
+    }
